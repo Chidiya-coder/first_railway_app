@@ -1,7 +1,7 @@
 {
   "name": "first_railway_app",
   "version": "1.0.0",
-  "description": "",
+  "description": " Full-stack REST API with database",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "pg": "^8.18.0"
   }
 }
